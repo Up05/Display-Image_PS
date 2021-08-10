@@ -9,6 +9,8 @@ Tool to display images in powershell terminal
 
 **Also this is my personal project for me, there are some issues and I MIGHT fix them eventually.**
 
+**Also I made A LOT of this in nodejs and am using npx run-func for getting the image... So you'll probably need nodejs**
+
 ## Description / Help
 
 You can put the Display-Image folder into here: `C:\Program Files\WindowsPowerShell\Modules` it needs admin permissions btw.
